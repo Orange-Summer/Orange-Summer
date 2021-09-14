@@ -20,5 +20,6 @@ Here are some ideas to get you started:
   -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Orange-Summer&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orange-Summer&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
