@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, 👋  I'm <a href="https://orangesummerr.com" target="_blank">OrangeSummer</a>
+
+<img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<br>
 
 <!--
 **Orange-Summer/Orange-Summer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Orange-Summer&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Orange-Summer&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
